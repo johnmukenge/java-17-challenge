@@ -1,0 +1,6 @@
+1. Pair ou impair: Implementez une méthode qui verifie si un nombre entier est pair ou impair et imprime sur la console le resultat.
+2. Majeur ou mineur: Implementez une méthode qui décide si à partir de l'age d'une personne, elle est majeure ou mineure.
+3. Mention de l'examen: De 90 à 100, imprimez "Excellent", de 70 à 89, imprimez "Bon", de 50 à 69, imprimez "Suffisant", Moins de 50, imprimez "Insuffisant". Implementez une méthode qui prend un nombre entier et imprime le resultat.
+4. Année bissextile: Implementez une méthode qui prend une année et imprime si elle est bissextile ou non. Une année est bissextile si elle est divisible par 4, mais pas par 100, sauf si elle est divisible par 400.
+5. Nombre premier: Implementez une méthode qui prend un nombre entier et imprime si c'est un nombre premier ou non.
+6. Multiple de 3 et 5: Implementez une méthode qui prend un nombre entier et imprime "Fizz" si le nombre est divisible par 3, "Buzz" si le nombre est divisible par 5, "FizzBuzz" si le nombre est divisible par 3 et 5, sinon imprimez le nombre.
